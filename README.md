@@ -4,6 +4,12 @@
 
 This project is a library management system developed in Python as part of group assignment 1 for the Advanced Programming course. It manages books, members, and calculates library statistics.
 
+## Group Menbers
+- Konombo Madeleine
+- Ouedraogo Adele
+- Ouedraogo Abdoulaye
+- Sanfo Madi
+
 ##  Assignment Goals
 
 This program meets all assignment requirements:
@@ -162,25 +168,3 @@ The program uses robust validation functions:
 - `@classmethod` : For accessing class variables
 - `@property` : For creating computed attributes
 
-##  Future Improvements
-
-- Save data to a JSON file
-- Add a book search feature
-- Implement a reservation system
-- Create a graphical user interface (GUI)
-- Add a late fee penalty system
-
-##  Author
-
-**[Your Name]**
-- Course : Advanced Programming
-- Assignment : Group 1
-- Date : May 2026
-
-##  License
-
-This project is developed for educational purposes as part of the Advanced Programming course.
-
----
-
-**Note** : This program was designed to demonstrate mastery of core Python concepts, inheritance, magic methods, and decorators, in accordance with the assignment requirements.
